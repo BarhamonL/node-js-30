@@ -1,0 +1,29 @@
+{
+  "name": "js-30",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BarhamonL/node-js-30.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BarhamonL/node-js-30/issues"
+  },
+  "homepage": "https://github.com/BarhamonL/node-js-30#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuidv4": "^6.2.3",
+    "yargs": "^16.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
